@@ -7,6 +7,8 @@ My WWDC 2019 Scholarship submission playground
 
 The extended ARKit+SceneKit remastered version of [Finder Zen](https://www.github.com/vince14genius/finder-zen/)
 
+[Demonstration Video](https://www.youtube.com/watch?v=U2eQBGyVmyc)
+
 ## Tell us about the features and technologies you used in your Swift playground. 
 
 **= UNIQUE GAMEPLAY FEATURES =**
